@@ -20,7 +20,7 @@ Overall indicators point to financial stability and predictable expense behaviou
 
 # Tools & Technologies
 
-Power Query
-DAX
-Microsoft Excel
+Power Query,
+DAX,
+Microsoft Excel and 
 Financial Modelling & Accounting Principles
